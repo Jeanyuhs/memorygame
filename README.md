@@ -1,5 +1,6 @@
 # memorygame
 Memory game created with Javascript
+03.30.24 - Forgot about this game. Updated code to fix glitch. 
 
 Memory game base code from https://www.youtube.com/watch?v=lhNdUVh3qCc&t=115s FreeCodeCamp Youtube - Github found here: https://github.com/kubowania/memory-game
 Followed tutorial for base game. Implemented my own art created on an iPad Air using Procreate.
